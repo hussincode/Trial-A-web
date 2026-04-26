@@ -1,0 +1,74 @@
+﻿@model IEnumerable<A.Models.Ride>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RideId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PickUp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DropOff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DriverId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RideId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PickUp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DropOff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DriverId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+    
+
+        </tr>
+}
+    </tbody>
+</table>

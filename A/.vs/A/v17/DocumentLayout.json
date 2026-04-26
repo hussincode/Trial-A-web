@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\controllers\\ridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\controllers\\ridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\vm\\ridevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\vm\\ridevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\ride\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\ride\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\vm\\deivervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\vm\\deivervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\ride\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\ride\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repoclass\\driverrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repoclass\\driverrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\driver\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\driver\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\views\\driver\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\views\\driver\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repoclass\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repoclass\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repointerface\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repointerface\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repoclass\\riderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repoclass\\riderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repointerface\\iride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repointerface\\iride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repointerface\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repointerface\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\vm\\vehiclevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\vm\\vehiclevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\ubercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\ubercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\vehicle type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\vehicle type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|d:\\.net-school-projects-\\a\\a\\migrations\\20260426064805_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D064A9-3C5D-45D3-B56D-461AB05143B9}|A\\A.csproj|solutionrelative:a\\migrations\\20260426064805_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoClass\\UserRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeToolTip": "A\\Repo\\RepoClass\\UserRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:55:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "A\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T07:12:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\DriverRepo.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoClass\\DriverRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\DriverRepo.cs",
+              "RelativeToolTip": "A\\Repo\\RepoClass\\DriverRepo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:48:34.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Ride\\Index.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Ride\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Ride\\Index.cshtml",
+              "RelativeToolTip": "A\\Views\\Ride\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:58:06.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Ride\\Create.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Ride\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Ride\\Create.cshtml",
+              "RelativeToolTip": "A\\Views\\Ride\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:57:22.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeiverVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\DeiverVM.cs",
+              "RelativeDocumentMoniker": "A\\Models\\VM\\DeiverVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\DeiverVM.cs",
+              "RelativeToolTip": "A\\Models\\VM\\DeiverVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:50:42.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RideVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\RideVM.cs",
+              "RelativeDocumentMoniker": "A\\Models\\VM\\RideVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\RideVM.cs",
+              "RelativeToolTip": "A\\Models\\VM\\RideVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:52:45.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RideController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Controllers\\RideController.cs",
+              "RelativeDocumentMoniker": "A\\Controllers\\RideController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Controllers\\RideController.cs",
+              "RelativeToolTip": "A\\Controllers\\RideController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:40:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "A\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Controllers\\UserController.cs",
+              "RelativeToolTip": "A\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:02:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "A\\Controllers\\VehicleController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "A\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:49:25.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "A\\Controllers\\DriverController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "A\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:12:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "A\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T07:16:22.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "A\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T07:35:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "A\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T07:25:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "A\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T07:14:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Program.cs",
+              "RelativeDocumentMoniker": "A\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Program.cs",
+              "RelativeToolTip": "A\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:16:49.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Driver\\Create.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Driver\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Driver\\Create.cshtml",
+              "RelativeToolTip": "A\\Views\\Driver\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:17:02.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Vehicle\\Index.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Vehicle\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Vehicle\\Index.cshtml",
+              "RelativeToolTip": "A\\Views\\Vehicle\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:54:16.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Vehicle\\Create.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Vehicle\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Vehicle\\Create.cshtml",
+              "RelativeToolTip": "A\\Views\\Vehicle\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:55:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IVehicle.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoInterface\\IVehicle.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IVehicle.cs",
+              "RelativeToolTip": "A\\Repo\\RepoInterface\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:45:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Views\\Driver\\Index.cshtml",
+              "RelativeDocumentMoniker": "A\\Views\\Driver\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Views\\Driver\\Index.cshtml",
+              "RelativeToolTip": "A\\Views\\Driver\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T08:27:36.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VehicleRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\VehicleRepo.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoClass\\VehicleRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\VehicleRepo.cs",
+              "RelativeToolTip": "A\\Repo\\RepoClass\\VehicleRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:04:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RideRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\RideRepo.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoClass\\RideRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoClass\\RideRepo.cs",
+              "RelativeToolTip": "A\\Repo\\RepoClass\\RideRepo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:56:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRide.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IRide.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoInterface\\IRide.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IRide.cs",
+              "RelativeToolTip": "A\\Repo\\RepoInterface\\IRide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:46:42.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDriver.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IDriver.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoInterface\\IDriver.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IDriver.cs",
+              "RelativeToolTip": "A\\Repo\\RepoInterface\\IDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:43:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VehicleVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\VehicleVM.cs",
+              "RelativeDocumentMoniker": "A\\Models\\VM\\VehicleVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\VM\\VehicleVM.cs",
+              "RelativeToolTip": "A\\Models\\VM\\VehicleVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:51:55.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeDocumentMoniker": "A\\Repo\\RepoInterface\\IUser.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeToolTip": "A\\Repo\\RepoInterface\\IUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:49:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "A\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "A\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:09:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "A\\Models\\Ride.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\Ride.cs",
+              "RelativeToolTip": "A\\Models\\Ride.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:31:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Vehicle Type.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\Vehicle Type.cs",
+              "RelativeDocumentMoniker": "A\\Models\\Vehicle Type.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\Vehicle Type.cs",
+              "RelativeToolTip": "A\\Models\\Vehicle Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:29:20.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UberContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\UberContext.cs",
+              "RelativeDocumentMoniker": "A\\Models\\UberContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\UberContext.cs",
+              "RelativeToolTip": "A\\Models\\UberContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:37:44.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\User.cs",
+              "RelativeDocumentMoniker": "A\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\User.cs",
+              "RelativeToolTip": "A\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:23:46.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260426064805_uu.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Migrations\\20260426064805_uu.cs",
+              "RelativeDocumentMoniker": "A\\Migrations\\20260426064805_uu.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Migrations\\20260426064805_uu.cs",
+              "RelativeToolTip": "A\\Migrations\\20260426064805_uu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:48:05.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "A\\Models\\Driver.cs",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\Models\\Driver.cs",
+              "RelativeToolTip": "A\\Models\\Driver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:26:12.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net-school-projects-\\A\\A\\appsettings.json",
+              "RelativeDocumentMoniker": "A\\appsettings.json",
+              "ToolTip": "D:\\.net-school-projects-\\A\\A\\appsettings.json",
+              "RelativeToolTip": "A\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T06:16:34.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
